@@ -1,4 +1,5 @@
 # JavaUTP
 Repository with Java tasks using more advanced technics
 
-UTP1 - Creating my own functional interfaces
+UTP1 - Creating my own functional interfaces with generics
+UTP2 - 
